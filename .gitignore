@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+
+# Data files
+*.csv
+wind-speed-chart.svg
+wind_speed.csv
+wind-speed-abstract.svg
+*.svg
+
+# VS Code
+.vscode/
