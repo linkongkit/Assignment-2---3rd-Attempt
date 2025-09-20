@@ -17,6 +17,7 @@ wind-speed-chart.svg
 wind_speed.csv
 wind-speed-abstract.svg
 *.svg
+!output/
 
 # VS Code
 .vscode/
